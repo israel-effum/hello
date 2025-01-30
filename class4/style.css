@@ -92,11 +92,11 @@ nav ul li a:hover{
 
 .sec{
     text-align: center;
-    margin-top: 250px;
+    margin-top: 298px;
 }
 
 .wee{
-    margin-top: 45px;
+    margin-top: 65px;
     font-family: 'Times New Roman', Times, serif;
 font-size: 65px;
 color: white;
@@ -113,18 +113,18 @@ font-display: ;
 
 .unruly img{
     margin-bottom: 20px;
-    width: 350px;
-    height: 320px;
+    width: 450px;
+    height: 420px;
 }
 
 .unruly{
     display: flex;
-    gap: 50px;
+    gap: 100px;
     margin-left: 300px;
     text-align: center;
     margin-top: 30px;
 font-family: robotos;
-    font-size: 40px;
+    font-size: 55px;
 }
 
 .img{
@@ -146,9 +146,9 @@ font-family: robotos;
     background-position: center;
     background-size: cover;
     position: absolute;
-    margin-left: 45px;
-    height: 460px;
-    width: 90%;
+    margin-left: 35px ;
+    height: 575px;
+    width: 96%;
     
 }
 
@@ -163,6 +163,8 @@ margin-top: 12px;
     background-color: transparent;
     border: 2px solid;
     border-color: white;
+    height: 45px;
+    border-radius: 45px;
 }
 
 
@@ -171,6 +173,7 @@ margin-top: 12px;
     padding: 20px;
     color: white;
     fo
+    margin: 15px;
 
 }
 
@@ -221,6 +224,7 @@ margin-top: 12px;
     margin-top: 45px;
     display: flex;
     gap: 30px;
+    margin-left: 250px;
 }
 
 
@@ -239,7 +243,7 @@ margin-top: 12px;
     margin-top: 25px;
     display: flex;
     gap: 30px;
-    margin-left: 25px;
+    margin-left: 250px;
     
 }
 
@@ -266,6 +270,7 @@ margin-top: 12px;
 .photo{
     display: flex;
     gap: 30px;
+    margin-left: 250px;
 }
 
 .cam2{
@@ -282,6 +287,7 @@ margin-top: 12px;
     display: flex;
     gap: 30px;
     margin-top: 35px;
+    margin-left: 250px;
 }
 
 .chale{
@@ -291,7 +297,7 @@ margin-top: 12px;
 .boy{
     display: flex;
     gap: 30px;
-    margin-left: 85px;
+    margin-left: 180px;
 }
 
 .web1{
@@ -434,3 +440,4 @@ i{
     size: 50px;
     padding: 0 8px;
 }
+
